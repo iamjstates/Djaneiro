@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = UUIDField(db_index=${2:True}, primary_key=${3:True})]]></content>
+    <tabTrigger>uuid</tabTrigger>
+    <scope>source.python</scope>
+    <description>UUIDField (uuid)</description>
+</snippet>
