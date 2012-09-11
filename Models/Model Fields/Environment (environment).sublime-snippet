@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[#!/usr/bin/env python]]></content>
+    <tabTrigger>env</tabTrigger>
+    <scope>source.python</scope>
+    <description>Environment (environment)</description>
+</snippet>
